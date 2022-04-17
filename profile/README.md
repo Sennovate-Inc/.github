@@ -12,5 +12,6 @@ Join our team in this fast-paced, collaborative and fun environment where you ge
 
 [Sennovate Glassdoor](https://www.glassdoor.co.in/Reviews/Sennovate-Reviews-E1201142.htm)
 
+<a href="http://freshworks.com/website-monitoring?utm_source=status_badge&utm_medium=status_badge" target="_blank"><img src="https://statuspage.freshping.io/badge/7894e1bb-de5a-4636-af00-ff875a689542?0.565002044170247"/> </a>
 
 <a href='https://www.glassdoor.com/Overview/Working-at-Sennovate-EI_IE1201142.11,20.htm'><img src='https://www.glassdoor.com/api/widget/verticalStarRating.htm?e=1201142'></a>
